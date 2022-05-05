@@ -9,10 +9,15 @@
 ### APP: Angular e Node JS
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-Java-royalblue?style=for-the-badge" alt="Java">
-  <img src="https://img.shields.io/badge/-Spring%20Boot-forestgreen?style=for-the-badge" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/-Maven-darkmagenta?style=for-the-badge" alt="Maven">
-  <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-HTML%205-orangered?style=for-the-badge" alt="HTML 5">
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge" alt="CSS3">
+  <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript">
+  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge" alt="Node.js">
+  <img src="https://img.shields.io/badge/-React-deepskyblue?style=for-the-badge" alt="React">
+  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge" alt="Next.js">
+  <img src="https://img.shields.io/badge/-PHP-mediumslateblue?style=for-the-badge" alt="PHP">
+  <img src="https://img.shields.io/badge/-Laravel-orange?style=for-the-badge" alt="Laravel">
+  <img src="https://img.shields.io/badge/-MYSQL-lightsteelblue?style=for-the-badge" alt="MYSQL">
 </div>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
