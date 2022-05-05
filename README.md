@@ -1,4 +1,19 @@
-# BanklineApp
+# Bankline APP
+
+## Santander Dev Week 2022
+ 
+4 dias de imersão em tecnologia mobile e fullstack aprendendo com o projeto: “Desenvolva uma API Rest para criação de extratos bancários do Santander”.
+
+02/05 A 05/05 - ONLINE E GRATUITO
+
+### APP: Angular e Node JS
+
+<div align="left">
+  <img src="https://img.shields.io/badge/-Java-royalblue?style=for-the-badge" alt="Java">
+  <img src="https://img.shields.io/badge/-Spring%20Boot-forestgreen?style=for-the-badge" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/-Maven-darkmagenta?style=for-the-badge" alt="Maven">
+  <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge" alt="PostgreSQL">
+</div>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
