@@ -13,11 +13,7 @@
   <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge" alt="CSS3">
   <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript">
   <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge" alt="Node.js">
-  <img src="https://img.shields.io/badge/-React-deepskyblue?style=for-the-badge" alt="React">
-  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge" alt="Next.js">
-  <img src="https://img.shields.io/badge/-PHP-mediumslateblue?style=for-the-badge" alt="PHP">
-  <img src="https://img.shields.io/badge/-Laravel-orange?style=for-the-badge" alt="Laravel">
-  <img src="https://img.shields.io/badge/-MYSQL-lightsteelblue?style=for-the-badge" alt="MYSQL">
+  <img src="https://img.shields.io/badge/-Angukar-red?style=for-the-badge" alt="Angular">
 </div>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
