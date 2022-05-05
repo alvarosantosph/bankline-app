@@ -1,4 +1,4 @@
-# Bankline APP
+# Bankline APP - Front-End
 
 ## Santander Dev Week 2022
  
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge" alt="CSS3">
   <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript">
   <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Angukar-red?style=for-the-badge" alt="Angular">
+  <img src="https://img.shields.io/badge/-Angular-red?style=for-the-badge" alt="Angular">
 </div>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
