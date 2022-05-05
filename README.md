@@ -6,7 +6,7 @@
 
 02/05 A 05/05 - ONLINE E GRATUITO
 
-### APP: Angular e Node JS
+### APP: Angular e Node.js
 
 <div align="left">
   <img src="https://img.shields.io/badge/-HTML%205-orangered?style=for-the-badge" alt="HTML 5">
