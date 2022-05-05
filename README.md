@@ -1,4 +1,4 @@
-# Bankline APP - Front-End
+# Bankline APP
 
 ## Santander Dev Week 2022
  
