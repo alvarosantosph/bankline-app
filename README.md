@@ -20,6 +20,12 @@ https://glysns.gitbook.io/java-full-stack/stack-angular/projeto
 
 https://dio-bankline-app3.herokuapp.com/
 
+<img src="https://github.com/alvarosantosph/bankline-app/blob/master/movimentacoes.png">
+
+<img src="https://github.com/alvarosantosph/bankline-app/blob/master/nova-movimentacao.png">
+
+<img src="https://github.com/alvarosantosph/bankline-app/blob/master/correntistas.png">
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
