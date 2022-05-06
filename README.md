@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/-Angular-red?style=for-the-badge" alt="Angular">
 </div>
 
+https://glysns.gitbook.io/java-full-stack/stack-angular/projeto
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
