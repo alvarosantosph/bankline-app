@@ -30,7 +30,7 @@ https://dio-bankline-app3.herokuapp.com/
 
 <img src="https://github.com/alvarosantosph/bankline-app/blob/master/nova-movimentacao.png">
 
-<img src="https://github.com/alvarosantosph/bankline-app/blob/master/correntistas.png">
+<img src="https://github.com/alvarosantosph/bankline-app/blob/master/correntistas-cadastro.png">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
