@@ -24,11 +24,11 @@ https://dio-bankline-app3.herokuapp.com/
 
 <img src="https://github.com/alvarosantosph/bankline-app/blob/master/movimentacoes-correntistas.png">
 
-<img src="https://github.com/alvarosantosph/bankline-app/blob/master/nova-movimentacao.png">
-
 <img src="https://github.com/alvarosantosph/bankline-app/blob/master/movimentacao-receita.png">
 
 <img src="https://github.com/alvarosantosph/bankline-app/blob/master/movimentacao-despesa.png">
+
+<img src="https://github.com/alvarosantosph/bankline-app/blob/master/nova-movimentacao.png">
 
 <img src="https://github.com/alvarosantosph/bankline-app/blob/master/correntistas.png">
 
