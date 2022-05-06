@@ -23,18 +23,24 @@ export class MovimentacaoListComponent implements OnInit {
     this.movimentacaoService.findByIdConta(this.correntista.id).subscribe(
       (data) => {
         this.movimentacoes = data;
-        console.log(data);
+        this.movimentacoes.map((data: any) => {
+          data.dataHoraFormatada = this.formatarData(data);
+        });
       },
       (error) => {
         console.log(error);
       }
     );
   }
+
+  formatarData(data: any): String {
+    return `${data.dataHora[0]}-${data.dataHora[1]}-${data.dataHora[2]} ${data.dataHora[3]}:${data.dataHora[4]}:${data.dataHora[5]}`;
+  }
+
   exibirCorrentistas(): void {
     this.correntistaService.list().subscribe(
       (data) => {
         this.correntistas = data;
-        console.log(data);
       },
       (error) => {
         console.log(error);
