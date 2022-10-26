@@ -32,6 +32,16 @@ https://dio-bankline-app3.herokuapp.com/
 
 <img src="https://github.com/alvarosantosph/bankline-app/blob/master/correntistas-cadastro.png">
 
+## Contato
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Github][github-shield]][github-url]
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-white.svg?logo=linkedin&colorB=0077B5&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/alvaro-andrade-48596b117/
+[github-shield]: https://img.shields.io/badge/-Github-black.svg?logo=github&colorB=181717&logoColor=white
+[github-url]: https://github.com/alvarosantosph
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
